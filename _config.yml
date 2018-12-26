@@ -27,7 +27,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : Cheryl Zhou
+  fullname                  : Hongrun Zhou
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : hongrunz@andrew.cmu.edu # change to your e-mail address
   # twitter                   : twitter-user-name
