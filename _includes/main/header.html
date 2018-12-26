@@ -7,7 +7,7 @@
       </div>
 
         <ul>
-            <li><a href="{{ '/about' | prepend: site.baseurl }}">about</a></li>
+            <li><a href="{{ '/about' | prepend: site.baseurl }}">about me</a></li>
             <li><a href="{{ '/archive' | prepend: site.baseurl }}">archive</a></li>
         </ul>
     </div>
@@ -24,6 +24,13 @@
         <li>
             <a href="https://stackoverflow.com/{{ site.author.stackoverflow }}" target="_blank" class="smaller">
               <span class="icon-stackoverflow"></span>
+            </a>
+        </li>
+        {% endif %}
+        {% if site.author.linkedin %}
+        <li>
+            <a href="https://linkedin.com/{{ site.author.linkedin }}" target="_blank" class="smaller">
+              <span class="icon-linkedin"></span>
             </a>
         </li>
         {% endif %}
