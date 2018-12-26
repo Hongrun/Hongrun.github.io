@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome! and How I Built This Blog"
+title:  "Welcome! And How I Built This Blog"
 tags:
   - jekyll
 hero: https://source.unsplash.com/collection/430471/
