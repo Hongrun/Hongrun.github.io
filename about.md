@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 published: true
 ---
 
 <div class="page" markdown="1">
+
+![400x200](/uploads/me5.png "Large example image")
+
+<!-- <div class="page" markdown="1">
 
 {% capture page_subtitle %}
 <img
@@ -17,7 +21,7 @@ published: true
 {% endcapture %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
-
+ -->
 ## About Me 
 
 **Education:**
