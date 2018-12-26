@@ -26,22 +26,22 @@ Next, we want to be able to edit the template to make it our own. We want to mak
 
 1. Install a ruby environment on your machine. If you have a Windows machine, follow this [tutorial][tutorial] to install ruby. If you have a Mac (like I do), you should have a ruby installed in your system. However, this version of ruby is for MacOS's own use, which means you will not have access to use it to install gems. Of course, you can forcefully do so through the system version of ruby via `sudo` but this is very unsafe. A better option is to head over to install your version of ruby. A great tool for managing multiple versions of ruby is rbenv and you can find an installation guide [here][here].
 2. We have to install jekyll and bundler on our non-system version of ruby. Open a terminal, run 
-~~~
+{% highlight ShellSession %}
 $ gem install jekyll
 $ gem install jekyll bundler
-~~~
+{% endhighlight %}
 3. Clone your repository to your machine into a location on your machine.
 4. `cd` into the local repository you just created and run 
-~~~
+{% highlight ShellSession %}
 $ bundle install
-~~~
+{% endhighlight %}
 to install all the dependencies stated in the Gemfile.
 5. Serve your website by running 
-~~~
+{% highlight ShellSession %}
 $ bunlde exec jekyll serve
-~~~
+{% endhighlight %}
 Now you should see something like this on your command line:
-~~~
+{% highlight ShellSession %}
 Configuration file: ...
             Source: ...
        Destination: ...
@@ -51,19 +51,19 @@ Configuration file: ...
  Auto-regeneration: enabled for '...'
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
-~~~
+{% endhighlight %}
 6. Open your favorite web browser and enter the server address as shown above into as a url. If successful, you should see your webpage showing up.
 7. To edit content in the template, read all the blog posts in the template blog as well as README.md for information on how to do so.
 
 Lastly, initialize a github repository in our folder for use of version control so that you are able to commit changes to your online repository and see your changes on your website hosted on github pages. For this step, use the terminal as follows or install [Github Desktop][github_desktop]:
 
-~~~
+{% highlight ShellSession %}
 $ git init
 $ git add -A .
 $ git commit -m "your-message"
 $ git remote add origin https://github.com/username/reponame.git
 $ git push -u origin master
-~~~
+{% endhighlight %}
 
 Now you should be all set!
 
