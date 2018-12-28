@@ -12,7 +12,7 @@ I am very excited to start this blog just before my 20th birthday. I have been a
 {: .lead}
 <!–-break-–>
 
-This blog is built using a [jekyll template][jekyll_template] I found on github. This template is perfect for me because it has both blog and resume features, which is exactly what I want. It's also so pretty!! Now, how did I make it my own? To my surprise, it's not a hussle at all.
+This blog is built using a [jekyll template][jekyll_template] I found on github. This template is perfect for me because it has both blog and resume features, which is exactly what I want. It's also so pretty!! Now, how did I make it my own? To my surprise, it's not a hassle at all.
 
 Our first step is to host the template onto our domain on `github.io` and it is unbelievably simple:
 
