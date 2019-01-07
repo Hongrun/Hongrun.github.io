@@ -9,10 +9,9 @@ published: true
 
 ---
 So, an exciting new year has started. This year, I decided to change up my programming game a little bit by switching to a new text editor -- vscode.
-{: .lead}
 <!–-break-–>
 
-Before vscode, I have always been using sublime, which is an amazing text editor. It has a lot of cool shortcuts, great plugins and a pretty interface, but there's one thing I didn't like so much, that is, it always prompts me to buy a license... Of course, I don't blame sublime for it, I should register and pay for a product I enjoy using. So here's what I will do in the future, I will keep using sublime for my own projects, but for school I will use vscode, because it is less distracting.
+Before vscode, I have always been using sublime, which is an amazing text editor. It has a lot of cool shortcuts, great plugins and a pretty interface, but there's one thing I didn't like so much, that is, it always prompts me to buy a license... Of course, I don't blame sublime for this. I should register and pay for a product I enjoy using. So here's what I will do in the future, I will keep using sublime for my own projects, but for school I will use vscode, because it is less distracting.
 
 Since I use ssh for my school projects, I need to figure out how to configure SFTP using vscode. I used a vscode plugin called SFTP but for some reason I couldn't get it to work... but I successfully installed a similar plugin called SSH FS and it worked beautifully.
 
