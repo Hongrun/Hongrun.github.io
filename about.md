@@ -30,23 +30,23 @@ published: true
 : Bachelor of Science in Electrical and Computer Engineering, GPA 3.83/4.00
 
 **Work Experiences:**
-: **Human-Computer Interaction Institute, CMU, Pittsburgh, PA, Independent Study Researcher**, *Sep 2018 – Dec 2018*
+: Human-Computer Interaction Institute, CMU, Pittsburgh, PA, Independent Study Researcher, *Sep 2018 – Dec 2018*
 * Created a two-player VR maze horror game and implemented features that interacts with users’ heart rate signals
 * Implemented a codebase that obtains real-time heart rate signals of players from fitness watches
 * Links: Github/Video
 
 **Projects:**
-: **Bitcoin Price Tracker, Personal iOS 11 Project**, *Jul 2018*
+: Bitcoin Price Tracker, Personal iOS 11 Project, *Jul 2018*
 * An iOS 11 phone app written in Swift used to track bitcoin price using an open source API
 Implemented delegates and protocols between view controllers and parsed data in JSON format
 * Link: [Github][bitcoin_github]
 
-: **Citation Wizard, Term Project for Fundamentals of Programming and CS**, *Dec 2017 –  Jan 2018*
+: Citation Wizard, Term Project for Fundamentals of Programming and CS, *Dec 2017 –  Jan 2018*
 * A writing workstation in Python, containing a text editor for academic writing and an auto-citation generator
 * Applied Selenium and Beautiful Soup for webscraping and MongoDB for database management
 * Links: [Github][cw_github]/Video
 
-: **QR Embellished, Group Project for HackCMU**, *Sep 2017*                                              
+: QR Embellished, Group Project for HackCMU, *Sep 2017*                                              
 * A web application that embellishes a QR code while preserving its encoded message
 Deployed a web app using Flask, HTML and CSS and Python
 * Link: [Github][qr_github]
