@@ -44,7 +44,7 @@ Implemented delegates and protocols between view controllers and parsed data in 
 : Citation Wizard, Term Project for Fundamentals of Programming and CS, *Dec 2017 –  Jan 2018*
 * A writing workstation in Python, containing a text editor for academic writing and an auto-citation generator
 * Applied Selenium and Beautiful Soup for webscraping and MongoDB for database management
-* Links: [Github][cw_github]/Video
+* Links: [Github][cw_github]/[Video][cw_video]
 
 : QR Embellished, Group Project for HackCMU, *Sep 2017*                                              
 * A web application that embellishes a QR code while preserving its encoded message
@@ -59,12 +59,13 @@ Deployed a web app using Flask, HTML and CSS and Python
 : 15-122 Principles of Imperative Computation
 : 15-150 Principles of Functional Programming
 
-**Skills and Interests**
-* Technical: C, Python, Java, Matlab, SML, Game Design(Unity, C#), iOS Development (Swift), Web Development
-* Languages: Chinese, English, German (Limited proficiency)
-* Hobbies: Music (Singing/Songwriting, Keyboard, Recording)
+**Skills and Interests:**
+: Technical: C, Python, Java, Matlab, SML, Game Design(Unity, C#), iOS Development (Swift), Web Development
+: Languages: Chinese, English, German (Limited proficiency)
+: Hobbies: Music (Singing/Songwriting, Keyboard, Recording)
 
 [cw_github]: https://github.com/Hongrun/Citation-Wizard
+[cw_video]: https://www.youtube.com/watch?v=-g2So8LmYcI
 [qr_github]: https://github.com/Hongrun/QR-Embellished
 [bitcoin_github]: https://github.com/Hongrun/Bitcoin-Tracker
 
