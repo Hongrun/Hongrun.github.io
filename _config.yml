@@ -5,9 +5,9 @@ url                          : "https://hongrunz.github.io" # the base hostname 
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Cheryl Zhou
+  title                      : Hongrun Zhou
   description                  : >
-                               Hi, I'm Cheryl! Welcome to my blog where I post
+                               Hi, I'm Hongrun! Welcome to my blog where I post
                                content about my programming and my life.
 
 # Layout configuration
