@@ -7,8 +7,7 @@ url                          : "https://hongrunz.github.io" # the base hostname 
 blog:
   title                      : Hongrun Zhou
   description                  : >
-                               Hi, I'm Hongrun! Welcome to my blog where I post
-                               content about my programming and my life.
+                               Hi, I'm Hongrun!
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file

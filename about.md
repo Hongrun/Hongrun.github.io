@@ -23,7 +23,7 @@ published: true
 {% include page/title.html title=page.title subtitle=page_subtitle %}
  -->
 
-## About Me 
+<!-- ## About Me 
 
 **Education:**
 : Carnegie Mellon University, Pittsburgh, PA (Expected Graduation in May 2021)            
@@ -68,5 +68,5 @@ Deployed a web app using Flask, HTML and CSS and Python
 [cw_video]: https://www.youtube.com/watch?v=-g2So8LmYcI
 [qr_github]: https://github.com/Hongrun/QR-Embellished
 [bitcoin_github]: https://github.com/Hongrun/Bitcoin-Tracker
-
+ -->
 </div>
